@@ -9,4 +9,5 @@ Exercise Solutions to the "100 Days of Code - The Complete Python Pro Bootcamp f
   <li>Day 005 (2021-08-01) : Loops in Python and using Range</li>
   <li>Day 006 (2021-08-02) : Functions in Python - Solving a maze puzzle</li>
   <li>Day 007 (2021-08-03) : Hangman Game</li>
+  <li>Day 008 (2021-08-04) : Functions with Parameters, and a Caesar Cipher</li>
 </ul>
