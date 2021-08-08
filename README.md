@@ -11,5 +11,6 @@ Exercise Solutions to the "100 Days of Code - The Complete Python Pro Bootcamp f
   <li>Day 007 (2021-08-03) : Hangman Game</li>
   <li>Day 008 (2021-08-04) : Functions with Parameters, and a Caesar Cipher</li>
   <li>Day 009 (2021-08-05) : Nesting of Dictionaries & Lists, and a Silent Auction Program</li>
-  <li>Day 010 (2021-08-06) : Functions with Outputs, and a basic calculator
+  <li>Day 010 (2021-08-06) : Functions with Outputs, and a basic calculator</li>
+  <li>Day 011 (2021-08-08) : Capstone Project 01 - Blackjack</li>
 </ul>
