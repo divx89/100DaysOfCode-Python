@@ -15,4 +15,5 @@ Exercise Solutions to the "100 Days of Code - The Complete Python Pro Bootcamp f
   <li>Day 011 (2021-08-08) : Capstone Project 01 - Blackjack</li>
   <li>Day 012 (2021-08-08) : Variable Scopes, and a Number Guessing Game</li>
   <li>Day 013 (2021-08-10) : Debugging (No Project of the Day)</li>
+  <li>Day 014 (2021-08-10) : The Higher-Lower Game</li>
 </ul>
