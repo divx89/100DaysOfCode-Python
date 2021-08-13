@@ -17,4 +17,5 @@ Exercise Solutions to the "100 Days of Code - The Complete Python Pro Bootcamp f
   <li>Day 013 (2021-08-10) : Debugging (No Project of the Day)</li>
   <li>Day 014 (2021-08-10) : The Higher-Lower Game</li>
   <li>Day 015 (2021-08-13) : Text-based Coffee-Machine Simulation</li>
+  <li>Day 016 (2021-08-13) : Text-based Coffee-Machine Simulation, using OOP. Helper Modules provided.</li>
 </ul>
