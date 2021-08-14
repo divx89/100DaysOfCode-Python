@@ -18,4 +18,6 @@ Exercise Solutions to the "100 Days of Code - The Complete Python Pro Bootcamp f
   <li>Day 014 (2021-08-10) : The Higher-Lower Game</li>
   <li>Day 015 (2021-08-13) : Text-based Coffee-Machine Simulation</li>
   <li>Day 016 (2021-08-13) : Text-based Coffee-Machine Simulation, using OOP. Helper Modules provided.</li>
+  <li>Day 017 (2021-08-14) : The Quiz Project, using OOP. Helper Modules Created.</li>
+  <li>Day 018 (2021-08-14) : The Turtle Graphics Module, and simulating a Hirst Painting</li>
 </ul>
