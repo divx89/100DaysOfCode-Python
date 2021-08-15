@@ -20,4 +20,5 @@ Exercise Solutions to the "100 Days of Code - The Complete Python Pro Bootcamp f
   <li>Day 016 (2021-08-13) : Text-based Coffee-Machine Simulation, using OOP. Helper Modules provided.</li>
   <li>Day 017 (2021-08-14) : The Quiz Project, using OOP. Helper Modules Created.</li>
   <li>Day 018 (2021-08-14) : The Turtle Graphics Module, and simulating a Hirst Painting</li>
+  <li>Day 019 (2021-08-15) : Instances, State, and Higher Order Functions</li>
 </ul>
