@@ -21,4 +21,5 @@ Exercise Solutions to the "100 Days of Code - The Complete Python Pro Bootcamp f
   <li>Day 017 (2021-08-14) : The Quiz Project, using OOP. Helper Modules Created.</li>
   <li>Day 018 (2021-08-14) : The Turtle Graphics Module, and simulating a Hirst Painting</li>
   <li>Day 019 (2021-08-15) : Instances, State, and Higher Order Functions</li>
+  <li>Day 020 (2021-08-16) : The Snake Game, Part 1</li>
 </ul>
