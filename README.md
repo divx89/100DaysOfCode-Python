@@ -22,4 +22,5 @@ Exercise Solutions to the "100 Days of Code - The Complete Python Pro Bootcamp f
   <li>Day 018 (2021-08-14) : The Turtle Graphics Module, and simulating a Hirst Painting</li>
   <li>Day 019 (2021-08-15) : Instances, State, and Higher Order Functions</li>
   <li>Day 020 (2021-08-16) : The Snake Game, Part 1</li>
+  <li>Day 021 (2021-08-17) : The Snake Game, Part 2</li>
 </ul>
