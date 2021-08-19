@@ -24,4 +24,5 @@ Exercise Solutions to the "100 Days of Code - The Complete Python Pro Bootcamp f
   <li>Day 020 (2021-08-16) : The Snake Game, Part 1</li>
   <li>Day 021 (2021-08-17) : The Snake Game, Part 2</li>
   <li>Day 022 (2021-08-18) : The Pong Game</li>
+  <li>Day 023 (2021-08-19) : Capstone Project 02 - The Turtle Crossing Game</li>
 </ul>
