@@ -28,4 +28,5 @@ Exercise Solutions to the "100 Days of Code - The Complete Python Pro Bootcamp f
   <li>Day 024 (2021-08-22) : Files, Directories and Paths; The Mail Merge Project</li>
   <li>Day 025 (2021-08-22) : Working with CSV files and the Pandas Library; The US States Guessing Game</li>
   <li>Day 026 (2021-08-23) : List and Dictionary Comprehension</li>
+  <li>Day 027 (2021-08-25) : GUI with Tkinter, and Function Arguments</li>
 </ul>
