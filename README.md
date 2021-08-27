@@ -30,4 +30,5 @@ Exercise Solutions to the "100 Days of Code - The Complete Python Pro Bootcamp f
   <li>Day 026 (2021-08-23) : List and Dictionary Comprehension</li>
   <li>Day 027 (2021-08-25) : GUI with Tkinter, and Function Arguments</li>
   <li>Day 028 (2021-08-26) : Tkinter, Dynamic Typing and a Pomodoro Application</li>
+  <li>Day 029 (2021-08-27) : Password Manager Application with Tkinter</li>
 </ul>
