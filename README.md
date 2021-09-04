@@ -36,4 +36,5 @@ Exercise Solutions to the "100 Days of Code - The Complete Python Pro Bootcamp f
   <li>Day 031 (2021-08-31) : Capstone Project 02 - Flash-cards Application</li>
   <li>Day 032 (2021-09-01) : Email_with_SMTP_and_the_DateTime_Module</li>
   <li>Day 033 (2021-09-03) : Application_Programming_Interfaces</li>
+  <li>Day 034 (2021-09-04) : Trivia_API_and_The_Quizzler_App</li>
 </ul>
