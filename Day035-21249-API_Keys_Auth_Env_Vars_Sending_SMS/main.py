@@ -38,6 +38,6 @@ print(it_will_rain)
 # If it will rain in the next 12 hours, send an SMS
 if it_will_rain:
     client = Client(ACCOUNT_SID, AUTH_TOKEN)
-    message = client.messages.create(body="Just letting you know. It's going to rain in Vizag",
+    message = client.messages.create(body="Hi! It's going to rain today, so carry an ☂️",
                                      from_=config["TWILIO_NUMBER"], to=config["SMS_NUMBER"])
     print(message.status)
