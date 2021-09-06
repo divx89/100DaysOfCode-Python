@@ -37,4 +37,5 @@ Exercise Solutions to the "100 Days of Code - The Complete Python Pro Bootcamp f
   <li>Day 032 (2021-09-01) : Email_with_SMTP_and_the_DateTime_Module</li>
   <li>Day 033 (2021-09-03) : Application_Programming_Interfaces</li>
   <li>Day 034 (2021-09-04) : Trivia_API_and_The_Quizzler_App</li>
+  <li>Day 035 (2021-09-06) : API Keys, Authentication, Environment Variables; and sending SMS</li>
 </ul>
