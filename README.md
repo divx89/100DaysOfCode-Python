@@ -40,4 +40,5 @@ Exercise Solutions to the "100 Days of Code - The Complete Python Pro Bootcamp f
   <li>Day 035 (2021-09-06) : API Keys, Authentication, Environment Variables; and sending SMS</li>
   <li>Day 036 (2021-09-07) : Stock Alert App (More work with APIs)</li>
   <li>Day 037 (2021-09-08) : Habit Tracker using Pixela (Working with API methods)</li>
+  <li>Day 038 (2021-09-14) : Workout Tracking using API and Google Sheets</li>
 </ul>
