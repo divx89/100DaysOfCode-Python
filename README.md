@@ -41,4 +41,6 @@ Exercise Solutions to the "100 Days of Code - The Complete Python Pro Bootcamp f
   <li>Day 036 (2021-09-07) : Stock Alert App (More work with APIs)</li>
   <li>Day 037 (2021-09-08) : Habit Tracker using Pixela (Working with API methods)</li>
   <li>Day 038 (2021-09-14) : Workout Tracking using API and Google Sheets</li>
+  <li>Day 039 (2021-09-14) : Capstone003-Part1-Flight_Deals_Alert</li>
+  <li>Day 040 (2021-09-15) : Capstone003-Part2-Flight_Club</li>
 </ul>
