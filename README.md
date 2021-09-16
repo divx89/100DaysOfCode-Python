@@ -44,4 +44,5 @@ Exercise Solutions to the "100 Days of Code - The Complete Python Pro Bootcamp f
   <li>Day 039 (2021-09-14) : Capstone003-Part1-Flight_Deals_Alert</li>
   <li>Day 040 (2021-09-15) : Capstone003-Part2-Flight_Club</li>
   <li>Day 041 (2021-09-16) : Introduction to HTML</li>
+  <li>Day 042 (2021-09-16) : Intermediate HTML</li>
 </ul>
