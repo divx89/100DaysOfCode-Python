@@ -1,0 +1,18 @@
+body {
+  background-color: #eaf6f6;
+}
+hr {
+  border: none;
+  border-top: dotted 5px grey;
+  height: 5px; /*As border is gone, we need some height to ensure that the hr is visible*/
+  width: 5%;
+}
+
+img {
+  height: 175px;
+}
+
+h1,
+h3 {
+  color: #66bfbf;
+}
