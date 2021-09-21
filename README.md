@@ -46,4 +46,5 @@ Exercise Solutions to the "100 Days of Code - The Complete Python Pro Bootcamp f
   <li>Day 041 (2021-09-16) : Introduction to HTML</li>
   <li>Day 042 (2021-09-16) : Intermediate HTML</li>
   <li>Day 043 (2021-09-17) : Intro to CSS</li>
+  <li>Day 044 (2021-09-21) : Intermediate CSS</li>
 </ul>
