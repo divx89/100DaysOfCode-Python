@@ -48,4 +48,5 @@ Exercise Solutions to the "100 Days of Code - The Complete Python Pro Bootcamp f
   <li>Day 043 (2021-09-17) : Intro to CSS</li>
   <li>Day 044 (2021-09-21) : Intermediate CSS</li>
   <li>Day 045 (2021-09-22) : Web Scraping using BeautifulSoup</li>
+  <li>Day 046 (2021-09-23) : Spotify Playlist using Top 100 Billboard songs of some date</li>
 </ul>
