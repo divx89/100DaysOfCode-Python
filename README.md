@@ -50,4 +50,5 @@ Exercise Solutions to the "100 Days of Code - The Complete Python Pro Bootcamp f
   <li>Day 045 (2021-09-22) : Web Scraping using BeautifulSoup</li>
   <li>Day 046 (2021-09-23) : Spotify Playlist using Top 100 Billboard songs of some date</li>
   <li>Day 047 (2021-09-24) : Amazon Price Tracker and Email Notifier</li>
+  <li>Day 048 (2021-09-25) : Selenium Webdriver and the Cookie Cutter Game</li>
 </ul>
