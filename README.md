@@ -51,4 +51,5 @@ Exercise Solutions to the "100 Days of Code - The Complete Python Pro Bootcamp f
   <li>Day 046 (2021-09-23) : Spotify Playlist using Top 100 Billboard songs of some date</li>
   <li>Day 047 (2021-09-24) : Amazon Price Tracker and Email Notifier</li>
   <li>Day 048 (2021-09-25) : Selenium Webdriver and the Cookie Cutter Game</li>
+  <li>Day 049 (2021-09-26) : Automated Linkedin Job Saving using Webdriver</li>
 </ul>
