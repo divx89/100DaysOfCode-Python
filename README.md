@@ -54,4 +54,5 @@ Exercise Solutions to the "100 Days of Code - The Complete Python Pro Bootcamp f
   <li>Day 049 (2021-09-26) : Automated Linkedin Job Saving using Webdriver</li>
   <li>Day 050 (2021-09-27) : Automated Tinder Clicks - Not Done - Technical issues with FB, Google and Tinder</li>
   <li>Day 051 (2021-09-27) : Automated Twitter Bot - Not Done - Phone Number privacy issues</li>
+  <li>Day 052 (2021-09-27) : Instagram Bot - Not Done - Phone Number privacy issues</li>
 </ul>
