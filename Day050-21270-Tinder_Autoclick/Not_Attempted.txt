@@ -1,0 +1,4 @@
+Could not attempt this for the following reasons:
+(1) Facebook refused to create a new profile and just blocked it.
+(2) Tinder wasn't able to send an SMS to my phone number, regardless of which Google account I tried to use.
+
