@@ -56,4 +56,5 @@ Exercise Solutions to the "100 Days of Code - The Complete Python Pro Bootcamp f
   <li>Day 051 (2021-09-27) : Automated Twitter Bot - Not Done - Phone Number privacy issues</li>
   <li>Day 052 (2021-09-27) : Instagram Bot - Not Done - Phone Number privacy issues</li>
   <li>Day 053 (2021-09-28) : Capstone004 - Data Entry using Beautiful Soup and Selenium</li>
+  <li>Day 054 (2021-09-29) : Introduction to Web Development using Flask</li>
 </ul>
