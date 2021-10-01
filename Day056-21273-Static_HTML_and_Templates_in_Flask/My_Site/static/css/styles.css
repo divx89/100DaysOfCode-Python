@@ -1,0 +1,94 @@
+/***********************  Tags   **************************/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+h1 {
+  color: #66bfbf;
+  font-family: "Sacramento", cursive;
+  margin-top: 0px;
+}
+h2 {
+  color: #66bfbf;
+  font-family: "Montserrat", sans-serif;
+}
+h3 {
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
+}
+
+a {
+  color: #11999e;
+}
+
+hr {
+  border: none;
+  border-top: dotted 5px grey;
+  height: 5px; /*As border is gone, we need some height to ensure that the hr is visible*/
+  width: 5%;
+}
+/*********************** Classes **************************/
+.top-container {
+  /*background-color: #e4f9f5;*/
+  background-color: #e0ebe8;
+}
+.top-elements {
+  display: inline-block;
+  position: relative;
+  padding-top: 5.5em;
+  height: 11em;
+}
+.name-heading {
+  font-size: 5.5em;
+  font-weight: 500;
+  margin: 2.5rem auto 0 auto;
+}
+.desc-para {
+  display: inline-block;
+  font-size: 1.5rem;
+  font-weight: normal;
+  line-height: 2;
+  margin-top: 0;
+}
+.top-cloud {
+  position: absolute;
+  right: 0;
+}
+.bottom-cloud {
+  position: absolute;
+  left: 0;
+}
+.skill-row {
+  line-height: 2;
+  margin: 6.25rem auto 6.25rem auto;
+  width: 50%;
+  text-align: left;
+}
+.skill-row img {
+  width: 6%;
+}
+.what-i-do {
+  float: left;
+  margin-right: 2rem;
+}
+.what-you-need {
+  float: right;
+  margin-left: 2rem;
+}
+.btn {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #1b7f69;
+  font-family: Helvetica;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 10px;
+  background-color: #45b29a;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+/***********************   IDs   **************************/
