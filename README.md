@@ -59,4 +59,5 @@ Exercise Solutions to the "100 Days of Code - The Complete Python Pro Bootcamp f
   <li>Day 054 (2021-09-29) : Introduction to Web Development using Flask</li>
   <li>Day 055 (2021-09-30) : URL and HTML Parsing with Flask. Variable Arguments to Decorators.</li>
   <li>Day 056 (2021-10-01) : Using Static HTML and templates to make sites using Flask</li>
+  <li>Day 057 (2021-10-03) : Using Jinja Templates with Flask</li>
 </ul>
