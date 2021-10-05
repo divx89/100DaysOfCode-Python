@@ -62,4 +62,5 @@ Exercise Solutions to the "100 Days of Code - The Complete Python Pro Bootcamp f
   <li>Day 057 (2021-10-02) : Using Jinja Templates with Flask</li>
   <li>Day 058 (2021-10-03) : Bootstrap - Skipped</li>
   <li>Day 059 (2021-10-04) : Updated Blog using Jinja and Flask</li>
+  <li>Day 060 (2021-10-05) : Updated Blog with Contact Form, using Jinja and Flask</li>
 </ul>
